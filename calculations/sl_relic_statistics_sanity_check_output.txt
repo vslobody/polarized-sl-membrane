@@ -1,0 +1,20 @@
+Inputs
+eta_b = 6.00e-10
+Omega_DM/Omega_b = 5.30
+T_c = 0.040 GeV
+g_*S = 14.0
+
+Required relic density
+n_b/s = 8.523e-11
+rho_R/s required = 4.237e-10 GeV
+s(T_c) = 3.930e-04 GeV^3
+rho_R(T_c) required = 1.665e-13 GeV^4
+
+Naive one-scale condensate
+rho_phi naive = 0.5*T_c^4 = 1.280e-06 GeV^4
+overclosure factor = 7.686e+06
+
+Required scalar product
+m_phi * phi0 required = 5.771e-07 GeV^2
+if phi0 = T_c, m_phi = 1.443e-05 GeV = 14.4 keV
+if m_phi = phi0, both = 7.597e-04 GeV = 0.76 MeV

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#222"/>
+    </marker>
+    <style>
+      .title { font: 700 32px serif; fill: #111; }
+      .box { fill: #ffffff; stroke: #222; stroke-width: 2; rx: 14; }
+      .soft { fill: #f7f7f7; stroke: #222; stroke-width: 2; rx: 14; }
+      .text { font: 20px serif; fill: #111; }
+      .small { font: 16px serif; fill: #222; }
+      .math { font: 18px serif; fill: #111; }
+      .arrow { stroke: #222; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+      .dash { stroke: #222; stroke-width: 2; fill: none; stroke-dasharray: 7 7; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="title">Polarized Sl-Membrane Cosmology: Front-Door Diagram</text>
+
+  <rect x="355" y="85" width="490" height="75" class="box"/>
+  <text x="600" y="116" text-anchor="middle" class="text">Balanced higher-dimensional state</text>
+  <text x="600" y="142" text-anchor="middle" class="math">global matter/conjugate accounting remains balanced</text>
+
+  <path d="M600 160 L600 215" class="arrow"/>
+
+  <rect x="355" y="215" width="490" height="75" class="box"/>
+  <text x="600" y="246" text-anchor="middle" class="text">Hot matter / conjugate plasma</text>
+  <text x="600" y="272" text-anchor="middle" class="math">annihilation continues before branch separation</text>
+
+  <path d="M600 290 L600 345" class="arrow"/>
+
+  <rect x="320" y="345" width="560" height="90" class="soft"/>
+  <text x="600" y="378" text-anchor="middle" class="text">Sl order parameter condenses</text>
+  <text x="600" y="405" text-anchor="middle" class="math">T<tspan baseline-shift="sub" font-size="14">c</tspan> ≈ 38–40 MeV from η<tspan baseline-shift="sub" font-size="14">B</tspan> ≈ 6×10⁻¹⁰</text>
+
+  <path d="M600 435 C420 480 300 520 245 575" class="arrow"/>
+  <path d="M600 435 C600 490 600 515 600 575" class="arrow"/>
+  <path d="M600 435 C780 480 900 520 955 575" class="arrow"/>
+
+  <rect x="70" y="575" width="350" height="95" class="box"/>
+  <text x="245" y="608" text-anchor="middle" class="text">Branch A</text>
+  <text x="245" y="635" text-anchor="middle" class="math">visible matter-oriented sector</text>
+  <text x="245" y="660" text-anchor="middle" class="small">local QED and gauge neutrality preserved</text>
+
+  <rect x="425" y="575" width="350" height="95" class="box"/>
+  <text x="600" y="608" text-anchor="middle" class="text">Branch B</text>
+  <text x="600" y="635" text-anchor="middle" class="math">conjugate orientation sector</text>
+  <text x="600" y="660" text-anchor="middle" class="small">not ordinary antimatter domains in our space</text>
+
+  <rect x="780" y="575" width="350" height="95" class="box"/>
+  <text x="955" y="608" text-anchor="middle" class="text">R<tspan baseline-shift="sub" font-size="14">Sl</tspan></text>
+  <text x="955" y="635" text-anchor="middle" class="math">neutral residual relic sector</text>
+  <text x="955" y="660" text-anchor="middle" class="small">cold matter-like, not dark radiation</text>
+
+  <path d="M955 670 L955 720" class="arrow"/>
+
+  <rect x="730" y="720" width="450" height="75" class="soft"/>
+  <text x="955" y="750" text-anchor="middle" class="text">Dark matter / tests</text>
+  <text x="955" y="775" text-anchor="middle" class="math">m<tspan baseline-shift="sub" font-size="14">R</tspan> n<tspan baseline-shift="sub" font-size="14">R</tspan> ≈ 5.3 m<tspan baseline-shift="sub" font-size="14">p</tspan> n<tspan baseline-shift="sub" font-size="14">b</tspan>; rare nuclear recoil portal?</text>
+
+  <path d="M780 760 C500 760 360 730 245 670" class="dash"/>
+  <text x="505" y="725" text-anchor="middle" class="small">gravitationally accessible cold relic residue, not broad matter coupling</text>
+</svg>

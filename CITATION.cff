@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or discuss this repository, please cite the archived Opus III DOI and the specific note used."
+title: "Polarized Sl-Membrane Cosmology: Front-Door Package"
+type: dataset
+authors:
+  - family-names: Slobodyanyuk
+    given-names: Volodimir
+repository-code: "https://github.com/<your-username>/polarized-sl-membrane-cosmology"
+abstract: "Front-door package for a conjectural polarized Sl-membrane cosmology with branch-relative matter asymmetry and neutral relic dark matter constraints."
+keywords:
+  - cosmology
+  - baryon asymmetry
+  - dark matter
+  - membrane cosmology
+  - speculative physics
+references:
+  - type: generic
+    title: "Polarized Sl-Membrane Cosmology, Opus III: Universal Matter Orientation and Relic Statistics"
+    authors:
+      - family-names: Slobodyanyuk
+        given-names: Volodimir
+    doi: "10.5281/zenodo.21312037"
+    year: 2026
