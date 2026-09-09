@@ -1,10 +1,10 @@
-# Polarized Sl-Membrane Cosmology
+﻿# Polarized Sl-Membrane Cosmology
 
 **Independent theoretical-physics research program proposing a polarized-membrane cosmology with branch-separated baryon neutrality and defect-origin dark matter. Current status: conjectural, timestamped on Zenodo, seeking formal exclusion tests.**
 
 ## Start here
 
-Read first: **Membrane Model — One-Page Entry Note** (`docs/one_page_summary.md`).
+Read first: [Membrane Model — One-Page Entry Note](./one_page_summary.html)
 
 Then read:
 
@@ -13,27 +13,16 @@ Then read:
 3. **Opus III** — universal pre-particle matter orientation and 40 MeV clarification. DOI: `10.5281/zenodo.21312037`.
 4. **Conjecture I** — relic-statistics constraint and possible xenon recoil signature class.
 
+Repository files:
+
+- [GitHub repository](https://github.com/vslobody/polarized-sl-membrane)
+- [One-page note source](https://github.com/vslobody/polarized-sl-membrane/blob/main/docs/one_page_summary.md)
+- [Papers folder](https://github.com/vslobody/polarized-sl-membrane/tree/main/papers)
+- [Conjecture I PDF](https://github.com/vslobody/polarized-sl-membrane/blob/main/notes/conjecture_i_sl_membrane_relics.pdf)
+
 ## Model in one diagram
 
-```text
-symmetric matter/conjugate plasma
-        |
-        | cooling + annihilation
-        v
-Sl order parameter condenses near T_c ~ 38--40 MeV
-        |
-        | branch separation freezes surviving residue
-        v
-H_A: visible matter branch     H_B: conjugate branch
-        |
-        | neutral Sl residue
-        v
-R_Sl: cold relic sector -> possible dark matter
-        |
-        | rare non-dissipative portal
-        v
-possible nuclear recoils / astrophysical constraints
-```
+![Polarized Sl-Membrane overview](./assets/membrane_model_overview.png)
 
 ## Why this is not a claim of discovery
 
